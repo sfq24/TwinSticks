@@ -4,19 +4,19 @@
 
 #Unity
 
-/[Ll]ibrary/
+TwinSticks/[Ll]ibrary/
 
-/[Tt]emp/
+TwinSticks/[Tt]emp/
 
-/[Oo]bj/
+TwinSticks/[Oo]bj/
 
-/[Bb]uild/
+TwinSticks/[Bb]uild/
 
-/[Bb]uilds/
+TwinSticks/[Bb]uilds/
 
-/Assets/AssetStoreTools*
+TwinSticks/Assets/AssetStoreTools*
 
-sysinfo.txt
+TwinStickssysinfo.txt
 
 *.pidb.meta
 
