@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        if (CrossPlatformInputManager.GetButton("Fire1"))
+        if (CrossPlatformInputManager.GetButton("Replay"))
         {
             IsRecording = false;
         }
